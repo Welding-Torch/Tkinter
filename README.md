@@ -1,7 +1,15 @@
 # Tkinter
 A collection of Tkinter Programs that I've written
 
-# Python In Easy Steps Programs
+## Programs
+
+| File Name                                                     | Title               | Description                                     |
+|---------------------------------------------------------------|---------------------|-------------------------------------------------|
+| [originalcalc.py](originalcalc.py)                            | Original Calculator | Made in Tkinter                                 |
+| [calculator.py](calculator.py)                                | Calculator          | Made in CustomTkinter                           |
+| [/1stTkDesignTest/build/gui.py](/1stTkDesignTest/build/gui.py) | MPR Project         | A Demonstration of Different Hashing Techniques |
+
+## Python In Easy Steps Programs
 
 | File Name | Title                 | Description |
 |-----------|-----------------------|-------------|
