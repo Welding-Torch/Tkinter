@@ -109,3 +109,16 @@ anchor=E
 
 .grid Arguments
 sticky=W+E
+
+# You can use .grid and .pack in the same program.
+
+# Frames
+
+LabelFrame()
+
+# Forget
+# Forget is used to remove a widget from the screen.
+eg:
+    global my_label
+    my_label.pack_forget()
+    my_label.grid_forget()
