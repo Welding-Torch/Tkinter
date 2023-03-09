@@ -101,3 +101,11 @@ grid() locates widgets in a two dimensional grid using row and column absolute c
 Important: pack(), place(), and grid() should not be combined in the same master window. Instead choose one and stick with it.
 '''
 # https://www.activestate.com/resources/quick-reads/how-to-position-widgets-in-tkinter/
+
+Label Arguments
+bd=10
+relief=SUNKEN
+anchor=E
+
+.grid Arguments
+sticky=W+E
