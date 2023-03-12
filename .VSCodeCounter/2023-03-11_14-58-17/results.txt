@@ -1,0 +1,140 @@
+Date : 2023-03-11 14:58:17
+Directory : c:\Users\bhati\hello\Tkinter
+Total : 91 files,  5480 codes, 314 comments, 2186 blanks, all 7980 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| Markdown         |         31 |      2,916 |         11 |      1,542 |      4,469 |
+| Python           |         49 |      1,456 |        278 |        537 |      2,271 |
+| toml             |          4 |        884 |          0 |         83 |        967 |
+| C                |          1 |        133 |          0 |          0 |        133 |
+| YAML             |          3 |         65 |         16 |         13 |         94 |
+| Makefile         |          1 |         14 |          9 |         10 |         33 |
+| pip requirements |          1 |          8 |          0 |          1 |          9 |
+| Ini              |          1 |          4 |          0 |          0 |          4 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                      | files      | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                         |         91 |      5,480 |        314 |      2,186 |      7,980 |
+| . (Files)                                                                                                                 |         28 |        770 |        103 |        240 |      1,113 |
+| 1stTkDesignTest                                                                                                           |         63 |      4,710 |        211 |      1,946 |      6,867 |
+| 1stTkDesignTest (Files)                                                                                                   |          3 |        224 |          0 |         22 |        246 |
+| 1stTkDesignTest\1sttkdesigntest                                                                                           |          1 |          0 |          0 |          1 |          1 |
+| 1stTkDesignTest\Tkinter-Designer                                                                                          |         53 |      4,251 |        193 |      1,844 |      6,288 |
+| 1stTkDesignTest\Tkinter-Designer (Files)                                                                                  |          8 |        987 |         10 |        220 |      1,217 |
+| 1stTkDesignTest\Tkinter-Designer\.github                                                                                  |          7 |        113 |         16 |         31 |        160 |
+| 1stTkDesignTest\Tkinter-Designer\.github (Files)                                                                          |          1 |          2 |          1 |          3 |          6 |
+| 1stTkDesignTest\Tkinter-Designer\.github\ISSUE_TEMPLATE                                                                   |          4 |         48 |          0 |         18 |         66 |
+| 1stTkDesignTest\Tkinter-Designer\.github\workflows                                                                        |          2 |         63 |         15 |         10 |         88 |
+| 1stTkDesignTest\Tkinter-Designer\docs                                                                                     |         21 |      2,531 |         10 |      1,369 |      3,910 |
+| 1stTkDesignTest\Tkinter-Designer\gui                                                                                      |          2 |        154 |          3 |         41 |        198 |
+| 1stTkDesignTest\Tkinter-Designer\tests                                                                                    |          1 |         16 |          0 |          7 |         23 |
+| 1stTkDesignTest\Tkinter-Designer\tkdesigner                                                                               |         14 |        450 |        154 |        176 |        780 |
+| 1stTkDesignTest\Tkinter-Designer\tkdesigner (Files)                                                                       |          7 |        100 |         60 |         36 |        196 |
+| 1stTkDesignTest\Tkinter-Designer\tkdesigner\figma                                                                         |          7 |        350 |         94 |        140 |        584 |
+| 1stTkDesignTest\build                                                                                                     |          5 |        235 |         18 |         78 |        331 |
+| 1stTkDesignTest\tests                                                                                                     |          1 |          0 |          0 |          1 |          1 |
++---------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++---------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                                  | language         | code       | comment    | blank      | total      |
++---------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\1sttkdesigntest\__init__.py                                                  | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\README.md                                                                    | Markdown         |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.flake8                                                     | Ini              |          4 |          0 |          0 |          4 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\FUNDING.yml                                         | YAML             |          2 |          1 |          3 |          6 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\ISSUE_TEMPLATE\blank-screen-without-any-elements.md | Markdown         |         13 |          0 |          7 |         20 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\ISSUE_TEMPLATE\bug-report.md                        | Markdown         |         11 |          0 |          3 |         14 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\ISSUE_TEMPLATE\feature-request.md                   | Markdown         |         12 |          0 |          3 |         15 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\ISSUE_TEMPLATE\key-error.md                         | Markdown         |         12 |          0 |          5 |         17 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\workflows\build.yml                                 | YAML             |         49 |         15 |          7 |         71 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\.github\workflows\greetings.yml                             | YAML             |         14 |          0 |          3 |         17 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\CODE_OF_CONDUCT.md                                          | Markdown         |         93 |          0 |         36 |        129 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\LEARN.md                                                    | Markdown         |        114 |          0 |         51 |        165 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\Makefile                                                    | Makefile         |         14 |          9 |         10 |         33 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\README.md                                                   | Markdown         |         94 |          1 |         60 |        155 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\CONTRIBUTING.md                                        | Markdown         |         32 |          0 |         21 |         53 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.ar-DZ.md                                        | Markdown         |         72 |          2 |         50 |        124 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.fr-FR.md                                        | Markdown         |         65 |          1 |         43 |        109 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.gu-GU.md                                        | Markdown         |         68 |          0 |         46 |        114 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.hin-HIN.md                                      | Markdown         |         73 |          1 |         48 |        122 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.it-IT.md                                        | Markdown         |         77 |          1 |         53 |        131 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.mr-MR.md                                        | Markdown         |         71 |          1 |         53 |        125 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.pt-BR.md                                        | Markdown         |         64 |          1 |         44 |        109 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.spa-SPA.md                                      | Markdown         |         59 |          1 |         42 |        102 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.tr-TR.md                                        | Markdown         |         68 |          1 |         52 |        121 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\README.zh-CN.md                                        | Markdown         |         64 |          1 |         41 |        106 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\build.md                                               | Markdown         |         42 |          0 |         16 |         58 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.ar-DZ.md                                  | Markdown         |        200 |          0 |         99 |        299 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.fr-FR.md                                  | Markdown         |        189 |          0 |         88 |        277 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.gu-GU.md                                  | Markdown         |        185 |          0 |         88 |        273 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.it-IT.md                                  | Markdown         |        209 |          0 |         98 |        307 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.md                                        | Markdown         |        206 |          0 |        102 |        308 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.pt-BR.md                                  | Markdown         |        200 |          0 |         99 |        299 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.spa-SPA.md                                | Markdown         |        206 |          0 |        102 |        308 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.tr-TR.md                                  | Markdown         |        199 |          0 |         99 |        298 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\docs\instructions.zh-CN.md                                  | Markdown         |        182 |          0 |         85 |        267 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\gui\__init__.py                                             | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\gui\gui.py                                                  | Python           |        154 |          3 |         40 |        197 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\poetry.lock                                                 | toml             |        622 |          0 |         53 |        675 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\pyproject.toml                                              | toml             |         38 |          0 |          9 |         47 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\requirements.txt                                            | pip requirements |          8 |          0 |          1 |          9 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tests\test_utils.py                                         | Python           |         16 |          0 |          7 |         23 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\__init__.py                                      | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\cli.py                                           | Python           |         54 |          4 |         19 |         77 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\conftest.py                                      | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\constants.py                                     | Python           |          1 |          1 |          1 |          3 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\designer.py                                      | Python           |         27 |          5 |          7 |         39 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\README.md                                  | Markdown         |          3 |          0 |          1 |          4 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\__init__.py                                | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\custom_elements.py                         | Python           |         81 |         55 |         35 |        171 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\endpoints.py                               | Python           |         28 |          4 |          9 |         41 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\frame.py                                   | Python           |        104 |          6 |         44 |        154 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\node.py                                    | Python           |         62 |          8 |         24 |         94 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\figma\vector_elements.py                         | Python           |         72 |         21 |         26 |        119 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\template.py                                      | Python           |          1 |         47 |          1 |         49 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\Tkinter-Designer\tkdesigner\utils.py                                         | Python           |         17 |          3 |          6 |         26 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\build\gui.py                                                                 | Python           |         91 |          2 |         14 |        107 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\build\gui1.py                                                                | Python           |         36 |          4 |         16 |         56 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\build\gui2.py                                                                | Python           |         36 |          4 |         16 |         56 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\build\gui3.py                                                                | Python           |         36 |          4 |         16 |         56 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\build\gui4.py                                                                | Python           |         36 |          4 |         16 |         56 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\poetry.lock                                                                  | toml             |        212 |          0 |         17 |        229 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\pyproject.toml                                                               | toml             |         12 |          0 |          4 |         16 |
+| c:\Users\bhati\hello\Tkinter\1stTkDesignTest\tests\__init__.py                                                            | Python           |          0 |          0 |          1 |          1 |
+| c:\Users\bhati\hello\Tkinter\Basic.py                                                                                     | Python           |          7 |          0 |          0 |          7 |
+| c:\Users\bhati\hello\Tkinter\Basic2.py                                                                                    | Python           |          6 |          0 |          2 |          8 |
+| c:\Users\bhati\hello\Tkinter\README.md                                                                                    | Markdown         |         33 |          0 |          6 |         39 |
+| c:\Users\bhati\hello\Tkinter\TkinterMASTERDocument.py                                                                     | Python           |         73 |         26 |         26 |        125 |
+| c:\Users\bhati\hello\Tkinter\calculator.py                                                                                | Python           |         51 |         21 |         30 |        102 |
+| c:\Users\bhati\hello\Tkinter\fcc1.py                                                                                      | Python           |          6 |          3 |          3 |         12 |
+| c:\Users\bhati\hello\Tkinter\fcc10.py                                                                                     | Python           |         21 |          7 |          9 |         37 |
+| c:\Users\bhati\hello\Tkinter\fcc11.py                                                                                     | Python           |          6 |          1 |          5 |         12 |
+| c:\Users\bhati\hello\Tkinter\fcc12.py                                                                                     | Python           |         11 |         10 |          4 |         25 |
+| c:\Users\bhati\hello\Tkinter\fcc13.py                                                                                     | Python           |          9 |          1 |          2 |         12 |
+| c:\Users\bhati\hello\Tkinter\fcc2.py                                                                                      | Python           |         10 |          3 |          3 |         16 |
+| c:\Users\bhati\hello\Tkinter\fcc3.py                                                                                      | Python           |          8 |          1 |          4 |         13 |
+| c:\Users\bhati\hello\Tkinter\fcc4.py                                                                                      | Python           |         12 |          1 |          7 |         20 |
+| c:\Users\bhati\hello\Tkinter\fcc5.py                                                                                      | Python           |         86 |          3 |         20 |        109 |
+| c:\Users\bhati\hello\Tkinter\fcc6.py                                                                                      | Python           |         11 |          1 |          3 |         15 |
+| c:\Users\bhati\hello\Tkinter\fcc7.py                                                                                      | Python           |         46 |          1 |         14 |         61 |
+| c:\Users\bhati\hello\Tkinter\fcc8.py                                                                                      | Python           |         52 |          2 |         20 |         74 |
+| c:\Users\bhati\hello\Tkinter\fcc9.py                                                                                      | Python           |         12 |          1 |          4 |         17 |
+| c:\Users\bhati\hello\Tkinter\originalcalc.py                                                                              | Python           |         44 |         20 |         29 |         93 |
+| c:\Users\bhati\hello\Tkinter\pg155.py                                                                                     | Python           |         13 |          0 |          4 |         17 |
+| c:\Users\bhati\hello\Tkinter\pg157.py                                                                                     | Python           |         13 |          0 |          2 |         15 |
+| c:\Users\bhati\hello\Tkinter\pg159.py                                                                                     | Python           |         13 |          0 |          6 |         19 |
+| c:\Users\bhati\hello\Tkinter\pg161.py                                                                                     | Python           |         16 |          0 |          7 |         23 |
+| c:\Users\bhati\hello\Tkinter\pg162.py                                                                                     | Python           |         19 |          0 |          9 |         28 |
+| c:\Users\bhati\hello\Tkinter\pg164.py                                                                                     | Python           |         24 |          0 |          8 |         32 |
+| c:\Users\bhati\hello\Tkinter\pg166.py                                                                                     | Python           |         18 |          0 |          7 |         25 |
+| c:\Users\bhati\hello\Tkinter\radiobuttons.py                                                                              | Python           |         17 |          1 |          6 |         24 |
+| c:\Users\bhati\hello\Tkinter\tempCodeRunnerFile.c                                                                         | C                |        133 |          0 |          0 |        133 |
+| Total                                                                                                                     |                  |      5,480 |        314 |      2,186 |      7,980 |
++---------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

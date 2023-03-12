@@ -122,3 +122,12 @@ eg:
     global my_label
     my_label.pack_forget()
     my_label.grid_forget()
+
+
+# -----------------------
+
+# Tkinter Variables
+Tkinter variables are not quite like Python variables. You declare them differently, You get values from them differently, you set their values differently.
+
+var = IntVar()
+
