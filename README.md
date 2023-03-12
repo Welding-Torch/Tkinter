@@ -43,3 +43,5 @@ A collection of Tkinter Programs that I've written
 | [fcc16.py](fcc16.py) | Dropdown Menus                            |             |
 | [fcc17.py](fcc17.py) | Using Databases                           |             |
 | [fcc18.py](fcc18.py) | Building Out The GUI for our Database App |             |
+| [fcc19.py](fcc19.py) | Delete A Record From Our Database         |             |
+| [fcc20.py](fcc20.py) | Update A Record With SQLite               |             |
