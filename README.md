@@ -23,18 +23,23 @@ A collection of Tkinter Programs that I've written
 
 ## Free Code Camp Tutorial
 
-| File Name            | Title                                  | Description |
-| -------------------- | -------------------------------------- | ----------- |
-| [fcc1.py](fcc1.py)   | Intro to Tkinter                       |             |
-| [fcc2.py](fcc2.py)   | Positioning With Tkinter's Grid System |             |
-| [fcc3.py](fcc3.py)   | Creating Buttons                       |             |
-| [fcc4.py](fcc4.py)   | Creating Input Fields                  |             |
-| [fcc5.py](fcc5.py)   | Simple Calculator                      |             |
-| [fcc6.py](fcc6.py)   | Using Icons, Images, and Exit Buttons  |             |
-| [fcc7.py](fcc7.py)   | Build an Image Viewer App              |             |
-| [fcc8.py](fcc8.py)   | Adding A Status Bar                    |             |
-| [fcc9.py](fcc9.py)   | Frames                                 |             |
-| [fcc10.py](fcc10.py) | Radio Buttons                          |             |
-| [fcc11.py](fcc11.py) |                                        |             |
-| [fcc12.py](fcc12.py) | Message Boxes                          |             |
-| [fcc13.py](fcc13.py) | Create New Windows                          |             |
+| File Name            | Title                                     | Description |
+| -------------------- | ----------------------------------------- | ----------- |
+| [fcc1.py](fcc1.py)   | Intro to Tkinter                          |             |
+| [fcc2.py](fcc2.py)   | Positioning With Tkinter's Grid System    |             |
+| [fcc3.py](fcc3.py)   | Creating Buttons                          |             |
+| [fcc4.py](fcc4.py)   | Creating Input Fields                     |             |
+| [fcc5.py](fcc5.py)   | Simple Calculator                         |             |
+| [fcc6.py](fcc6.py)   | Using Icons, Images, and Exit Buttons     |             |
+| [fcc7.py](fcc7.py)   | Build an Image Viewer App                 |             |
+| [fcc8.py](fcc8.py)   | Adding A Status Bar                       |             |
+| [fcc9.py](fcc9.py)   | Frames                                    |             |
+| [fcc10.py](fcc10.py) | Radio Buttons                             |             |
+| [fcc11.py](fcc11.py) | Message Boxes                             |             |
+| [fcc12.py](fcc12.py) | Create New Windows                        |             |
+| [fcc13.py](fcc13.py) | Open Files Dialog Box                     |             |
+| [fcc14.py](fcc14.py) | Sliders                                   |             |
+| [fcc15.py](fcc15.py) | Checkboxes                                |             |
+| [fcc16.py](fcc16.py) | Dropdown Menus                            |             |
+| [fcc17.py](fcc17.py) | Using Databases                           |             |
+| [fcc18.py](fcc18.py) | Building Out The GUI for our Database App |             |
