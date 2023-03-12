@@ -1,20 +1,21 @@
-# Open Files Dialog Box
+# Sliders
 from tkinter import *
-from PIL import ImageTk,Image
-from tkinter import filedialog
+from PIL import ImageTk, Image
 
 root = Tk()
-root.title('Open Files Dialog Box')
+root.title('Sliders')
 root.iconbitmap('C:/Users/bhati/hello/Tkinter/home_house_icon_250568.ico')
+root.geometry('400x400')
 
-def open():
-    global my_image
-    root.filename = filedialog.askopenfilename(initialdir="C:/Users/bhati/hello/Tkinter", title='Select A File', filetypes=(("png files", "*.png"),("all files", "*.*")))
-    my_label = Label(root, text=root.filename).pack()
+vertical = Scale(root, from_=0, to=400)
+vertical.pack()
 
-    my_image = ImageTk.PhotoImage(Image.open(root.filename))
-    my_image_label = Label(image=my_image).pack()
+def slide():
+    my_label = Label(root, text=horizontal.get()).pack()
+    root.geometry(str(horizontal.get()) + "x" + str(vertical.get()))
 
-    
-my_btn = Button(root, text='Open File', command=open).pack()
+horizontal = Scale(root, from_=0, to=400, orient=HORIZONTAL)
+horizontal.pack()
+
+my_btn = Button(root,text="Click Me!",command=slide).pack()
 mainloop()

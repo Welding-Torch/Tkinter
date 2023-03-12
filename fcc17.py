@@ -1,20 +1,32 @@
-# Dropdown Menus
+# Using Databases
 from tkinter import *
-from PIL import ImageTk, Image
+from PIL import ImageTk,Image
+import sqlite3
 
 root = Tk()
-root.title("Dropdown Menus")
+root.title('Using Databases')
 root.iconbitmap('C:/Users/bhati/hello/Tkinter/home_house_icon_250568.ico')
 root.geometry("400x400")
 
-def show():
-    myLabel = Label(root, text=clicked.get()).pack()
+# Create a Database or connect to one
+conn = sqlite3.connect('address_book.db')
 
-options = ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
-clicked = StringVar()
-clicked.set(options[0])
-drop = OptionMenu(root, clicked, *options)
-drop.pack()
+# Create cursor
+c = conn.cursor()
 
-myButton = Button(root, text="Show Selection", command=show).pack()
+# Create table
+c.execute("""CREATE TABLE addresses (
+    first_name text,
+    last_name text,
+    address text,
+    city text,
+    state text,
+    zipcode integer
+)""")
+
+# Commit Changes
+conn.commit()
+
+#Close Connection
+conn.close()
 mainloop()

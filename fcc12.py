@@ -1,25 +1,21 @@
-# Message boxes
+# Create New Windows
 from tkinter import *
-from PIL import ImageTk,Image
-from tkinter import messagebox
+from PIL import ImageTk, Image
 
 root = Tk()
-root.title('Message Boxes')
+root.title('Create New Windows')
 root.iconbitmap('C:/Users/bhati/hello/Tkinter/home_house_icon_250568.ico')
 
-def popup():
-    response = messagebox.showinfo("This is my Popup!", "Hello World!")
-    Label(root, text=response).pack()
-    # if response == 1:
-    #     Label(root,text="You clicked yes" ).pack()
-    # else:
-    #     Label(root,text="You clicked No").pack()
-    #messagebox.showwarning("This is my Popup!", "Hello World!")
-    #messagebox.showerror("This is my Popup!", "Hello World!")
-    #messagebox.askquestion("This is my Popup!", "Hello World!")
-    #messagebox.askokcancel("This is my Popup!", "Hello World!")
-    #messagebox.askyesno("This is my Popup!", "Hello World!")
+def open():
+    global my_image       
+    top = Toplevel()
+    top.title('Create New Windows')
+    top.iconbitmap('C:/Users/bhati/hello/Tkinter/home_house_icon_250568.ico')
 
-Button(root, text="Popup",command=popup).pack()
+    my_image = ImageTk.PhotoImage(Image.open("images/redhood.jpg"))
+    my_label = Label(top, image=my_image).pack()
+    btn2 = Button(top, text="close window", command=top.destroy).pack()
+
+btn = Button(root, text='Open Second Window', command=open).pack()
 
 mainloop()
