@@ -45,3 +45,7 @@ A collection of Tkinter Programs that I've written
 | [fcc18.py](fcc18.py) | Building Out The GUI for our Database App |             |
 | [fcc19.py](fcc19.py) | Delete A Record From Our Database         |             |
 | [fcc20.py](fcc20.py) | Update A Record With SQLite               |             |
+| [fcc21.py](fcc21.py) | Build A Weather App                       |             |
+| [fcc22.py](fcc22.py) | Change Colors in our Weather App          |             |
+| [fcc23.py](fcc23.py) | Add Zip Code Lookup Form                  |             |
+| [fcc24.py](fcc24.py) | Matplotlib Charts                         |             |
