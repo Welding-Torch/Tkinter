@@ -1,5 +1,5 @@
 # Tkinter
-A collection of Tkinter Programs that I've written
+A collection of Tkinter Programs that I've written.
 
 ## Programs
 
@@ -11,6 +11,8 @@ A collection of Tkinter Programs that I've written
 
 ## Python In Easy Steps Programs
 
+### Building Interfaces
+
 | File Name            | Title                 | Description |
 | -------------------- | --------------------- | ----------- |
 | [pg155.py](pg155.py) | Responding To Buttons |             |
@@ -20,6 +22,17 @@ A collection of Tkinter Programs that I've written
 | [pg162.py](pg162.py) | Polling Radio Buttons |             |
 | [pg164.py](pg164.py) | Checking Boxes        |             |
 | [pg166.py](pg166.py) | Adding Images         |             |
+
+### Developing Applications
+| File Name            | Title                           | Description |
+| -------------------- | ------------------------------- | ----------- |
+| [pg171.py](pg171.py) | Generating Random Numbers       |             |
+| [pg172.py](pg172.py) | Planning The Program            |             |
+| [pg174.py](pg174.py) | Designing The Interface         |             |
+| [pg176.py](pg176.py) | Assigning Static Properties     |             |
+| [pg177.py](pg177.py) | Initializing Dynamic Properties |             |
+| [pg178.py](pg178.py) | Adding Runtime Functionality    |             |
+| [setup.py](setup.py) | Freezing The Program            |             |
 
 ## Free Code Camp Tutorial
 
