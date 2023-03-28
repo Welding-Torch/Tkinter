@@ -24,15 +24,15 @@ A collection of Tkinter Programs that I've written.
 | [pg166.py](pg166.py) | Adding Images         |             |
 
 ### Developing Applications
-| File Name            | Title                           | Description |
-| -------------------- | ------------------------------- | ----------- |
-| [pg171.py](pg171.py) | Generating Random Numbers       |             |
-| [pg172.py](pg172.py) | Planning The Program            |             |
-| [pg174.py](pg174.py) | Designing The Interface         |             |
-| [pg176.py](pg176.py) | Assigning Static Properties     |             |
-| [pg177.py](pg177.py) | Initializing Dynamic Properties |             |
-| [pg178.py](pg178.py) | Adding Runtime Functionality    |             |
-| [setup.py](setup.py) | Freezing The Program            |             |
+| File Name            | Title                           | Description                                                                               |
+| -------------------- | ------------------------------- | ----------------------------------------------------------------------------------------- |
+| [pg171.py](pg171.py) | Generating Random Numbers       |                                                                                           |
+| [pg172.py](pg172.py) | Planning The Program            |                                                                                           |
+| [pg174.py](pg174.py) | Designing The Interface         |                                                                                           |
+| [pg176.py](pg176.py) | Assigning Static Properties     |                                                                                           |
+| [pg177.py](pg177.py) | Initializing Dynamic Properties |                                                                                           |
+| [pg178.py](pg178.py) | Adding Runtime Functionality    |                                                                                           |
+| [setup.py](setup.py) | Freezing The Program            | Build using `python setup.py build`. Distributable made using `python setup.py bdist_msi`. |
 
 ## Free Code Camp Tutorial
 
